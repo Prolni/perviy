@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\bin\Debug\net6.0\exampl2.exe
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\bin\Debug\net6.0\exampl2.deps.json
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\bin\Debug\net6.0\exampl2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\bin\Debug\net6.0\exampl2.dll
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\bin\Debug\net6.0\exampl2.pdb
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.dll
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\refint\exampl2.dll
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.pdb
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\exampl2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GIT Lessons\repozitir\example\exampl2\obj\Debug\net6.0\ref\exampl2.dll
